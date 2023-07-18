@@ -1,10 +1,11 @@
 # About Me
 
-- Software Engineering graduate from Carleton University with a GPA of 10.15/12.
-- Skilled frontend developer passionate about creating lively user experiences.
+- Software Engineering new Grad from Carleton University in Ottawa (GPA A-).
+- Interested in Full stack development from planning to development to integration and deloypment.
+- Love reading tech blogs and learning from the guru, always keep a beginner's mindset
 - Experience with:
   - React, React Native, Redux, Angular, Node.js, MongoDB, and more.
-  - Git, Docker, VS Code, and various libraries like pandas and TensorFlow.
-- Let's collaborate and our project ideas to life!
+  - Git, Docker, VS Code, and various libraries like Pandas and TensorFlow.
+- Let's collaborate and put ideas to life!
 
 
